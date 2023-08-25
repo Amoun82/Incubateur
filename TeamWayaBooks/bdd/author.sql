@@ -1,0 +1,10 @@
+insert into author (id, author_firstname, author_lastname, informations, author_image) values (1, 'Ottilie', 'Pamment', 'sit amet erat', 'http://dummyimage.com/59x98.png/cc0000/ffffff');
+insert into author (id, author_firstname, author_lastname, informations, author_image) values (2, 'Wallace', 'Sheers', 'donec vitae nisi', 'http://dummyimage.com/69x53.png/dddddd/000000');
+insert into author (id, author_firstname, author_lastname, informations, author_image) values (3, 'Beauregard', 'Raynes', 'sapien', 'http://dummyimage.com/87x91.png/5fa2dd/ffffff');
+insert into author (id, author_firstname, author_lastname, informations, author_image) values (4, 'Kathrine', 'Lyston', 'in leo', 'http://dummyimage.com/50x56.png/ff4444/ffffff');
+insert into author (id, author_firstname, author_lastname, informations, author_image) values (5, 'Steve', 'Bottell', 'orci luctus et', 'http://dummyimage.com/55x91.png/cc0000/ffffff');
+insert into author (id, author_firstname, author_lastname, informations, author_image) values (6, 'Grata', 'Dumbarton', 'varius', 'http://dummyimage.com/96x55.png/cc0000/ffffff');
+insert into author (id, author_firstname, author_lastname, informations, author_image) values (7, 'Ari', 'Roiz', 'maecenas ut massa quis augue', 'http://dummyimage.com/72x72.png/cc0000/ffffff');
+insert into author (id, author_firstname, author_lastname, informations, author_image) values (8, 'Nelly', 'Cabble', 'duis', 'http://dummyimage.com/97x87.png/5fa2dd/ffffff');
+insert into author (id, author_firstname, author_lastname, informations, author_image) values (9, 'Lorette', 'Weall', 'erat volutpat', 'http://dummyimage.com/90x54.png/ff4444/ffffff');
+insert into author (id, author_firstname, author_lastname, informations, author_image) values (10, 'Nannie', 'Wixey', 'eros suspendisse accumsan tortor quis', 'http://dummyimage.com/76x90.png/ff4444/ffffff');
